@@ -1,5 +1,6 @@
 *.class
 *.txt
+*.DS_Store
 Todo
 RestaurantFinder
 Intenship_Submission
